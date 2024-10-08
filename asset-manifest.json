@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/foundry-contracts-fe/static/css/main.2e33eb45.css",
-    "main.js": "/foundry-contracts-fe/static/js/main.952fd5ed.js",
+    "main.css": "/foundry-contracts-fe/static/css/main.f8967a7f.css",
+    "main.js": "/foundry-contracts-fe/static/js/main.b497816b.js",
     "index.html": "/foundry-contracts-fe/index.html",
-    "main.2e33eb45.css.map": "/foundry-contracts-fe/static/css/main.2e33eb45.css.map",
-    "main.952fd5ed.js.map": "/foundry-contracts-fe/static/js/main.952fd5ed.js.map"
+    "main.f8967a7f.css.map": "/foundry-contracts-fe/static/css/main.f8967a7f.css.map",
+    "main.b497816b.js.map": "/foundry-contracts-fe/static/js/main.b497816b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e33eb45.css",
-    "static/js/main.952fd5ed.js"
+    "static/css/main.f8967a7f.css",
+    "static/js/main.b497816b.js"
   ]
 }
