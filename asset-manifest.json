@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foundry-contracts-fe/static/css/main.2e33eb45.css",
+    "main.js": "/foundry-contracts-fe/static/js/main.952fd5ed.js",
+    "index.html": "/foundry-contracts-fe/index.html",
+    "main.2e33eb45.css.map": "/foundry-contracts-fe/static/css/main.2e33eb45.css.map",
+    "main.952fd5ed.js.map": "/foundry-contracts-fe/static/js/main.952fd5ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e33eb45.css",
+    "static/js/main.952fd5ed.js"
+  ]
+}
