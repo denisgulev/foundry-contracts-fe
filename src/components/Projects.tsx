@@ -18,13 +18,13 @@ const Projects: React.FC = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <ProjectCard
                     title="SimpleStorage Contract"
-                    description="Interact with the SimpleStorage contract on ZKSync."
+                    description="Interact with the SimpleStorage contract"
                     rpcUrl={rpcUrl}
                     contractAddress={simpleStorageAddress}
                 />
                 <FundMeCard
                     title="FundMe Contract"
-                    description="Interact with the FundMe contract on ZKSync."
+                    description="Interact with the FundMe contract."
                     rpcUrl={rpcUrl}
                     contractAddress={fundMeAddress}
                 />
